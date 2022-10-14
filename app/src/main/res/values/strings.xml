@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CookingList</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_navigation_recipe">Рецепты</string>
+    <string name="btn_navigation_meal_planer">Планировщик питания</string>
+    <string name="btn_navigation_shoping_list">Список покупок</string>
+    <string name="btn_navigation_calorie_log">Журнал каллорийности</string>
+    <string name="add">Добавить</string>
+    <string name="recipe_name">Название рецепта</string>
+    <string name="cooking_process">Приготовление</string>
+    <string name="calories">Коллории</string>
+    <string name="protein">Белки</string>
+    <string name="fat">Жиры</string>
+    <string name="carbohydrates">Углеводы</string>
+    <string name="save">Сохранить</string>
+</resources>

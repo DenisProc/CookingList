@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/panel_navigation_recipe_list"
+        android:icon="@drawable/ic_food_list"
+        android:title="@string/btn_navigation_recipe"
+        android:orderInCategory="1"
+        />
+    <item
+        android:id="@+id/panel_navigation_planer"
+        android:icon="@drawable/ic_calendar"
+        android:title="@string/btn_navigation_meal_planer"
+        android:orderInCategory="2"
+        />
+    <item
+        android:id="@+id/panel_navigation_shoping_list"
+        android:icon="@drawable/ic_shopping"
+        android:title="@string/btn_navigation_shoping_list"
+        android:orderInCategory="3"
+        />
+    <item
+        android:id="@+id/panel_navigation_diary"
+        android:icon="@drawable/ic_graph"
+        android:title="@string/btn_navigation_calorie_log"
+        android:orderInCategory="4"
+        />
+
+</menu>
